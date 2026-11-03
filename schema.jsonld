@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["Organization", "SportsActivityLocation"],
+      "@id": "https://theleveluparena.com/#organization",
+      "name": "The Level Up! Arena",
+      "description": "An inclusive, RPG-gamified whole-human health and fitness coaching platform combining strength training, plant-forward nutrition, mindset work, and habit-building.",
+      "founder": {
+        "@type": "Person",
+        "name": "J.V. Marron"
+      }
+    }
+  ]
+}
